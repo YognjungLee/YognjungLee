@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YognjungLee
+- 👋 Hi, I’m @YongjungLee
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Building Prediction Model
